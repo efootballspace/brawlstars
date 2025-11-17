@@ -15,7 +15,7 @@
 }
 
 body {
-    background: linear-gradient(to bottom, #ffff16, #f0f0f0); /* Light blue sky gradient */
+    background: linear-gradient(to bottom, #ffff16, #f0f0ff); /* Light blue sky gradient */
     min-height: 100vh;
     display: flex;
     flex-direction: column;
